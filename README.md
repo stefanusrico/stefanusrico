@@ -1,6 +1,6 @@
 - 🔥 Hi, I'm @stefanusrico
 - 👀 I'm interested in developing websites
-- 🌱 I'm currently learning React, Node.
+- 🌱 I'm currently learning React, Node and Golang.
 - 💞 I'm currently interested in collaborating
 - 📫 You can reach me at stefanus.rico7@gmail.com
 
